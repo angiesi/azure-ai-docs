@@ -60,7 +60,7 @@ Currently, several regions are capacity-constrained for specific tiers and can't
 
 | Region | Disabled tier (SKU) due to over-capacity | Suggested alternative |
 |--------|------------------------------------------|-----------------------|
-| North Europe | S2, S3, L1, L2 | Sweden Central, West Europe|
+| West US 2 | Basic, S1, S2, S3, L1, L2 | East US|
 
 ## Feature availability by tier
 
