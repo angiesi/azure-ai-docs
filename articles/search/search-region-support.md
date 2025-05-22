@@ -53,6 +53,8 @@ You can create an Azure AI Search service in any of the following Azure public r
 | West US 3​ | ✅ | ✅ | ✅ | ✅ |  |
 | West Central US​ ​ | ✅ |  | ✅ | ✅ |  |
 
+<sup>1</sup> This region has capacity constraints on the following tiers: Basic, S1, S2, S3, L1, and L2.
+
 ### Europe
 
 | Region | AI enrichment | Availability zones | Agentic retrieval | Semantic ranker | Query rewrite |
@@ -102,13 +104,15 @@ You can create an Azure AI Search service in any of the following Azure public r
 | Central India | ✅ | ✅ | ✅ | ✅ |  |
 | Jio India West​​ | ✅ |  | ✅ | ✅ |  |
 | South India |  | ✅ |  |  |  |
-| Japan East <sup>1</sup> | ✅ | ✅ | ✅ | ✅ |  |
+| Japan East <sup>2</sup> | ✅ | ✅ | ✅ | ✅ |  |
 | Japan West​ | ✅ |  | ✅ | ✅ |  |
 | Korea Central | ✅ | ✅ | ✅ | ✅ |  |
 | Korea South​​ |  |  | ✅ | ✅ |  |
 | Indonesia Central |  | ✅ |  |  |  |
 
 <sup>1</sup> [Higher storage limits](search-limits-quotas-capacity.md#service-limits) aren't available in this region. If you want higher limits, choose a different region.
+
+<sup>2</sup> This region has capacity constraints on the following tiers: Basic, S1, S2, S3, L1, and L2.
 
 ## Azure Government regions
 
