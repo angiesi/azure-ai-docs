@@ -69,7 +69,7 @@ You can create an Azure AI Search service in any of the following Azure public r
 | Germany West Central​ <sup>1</sup> ​| ✅ | ✅ | ✅ |  | ✅ |  |
 | Italy North​​ |  | ✅ | ✅ | ✅ | ✅ |  |
 | Norway East​​ | ✅ | ✅ |  | ✅ |  |  |
-| North Europe​​ | ✅ | ✅ | ✅ |  | ✅ | ✅ |
+| North Europe​​ <sup>3</sup>| ✅ | ✅ | ✅ |  | ✅ | ✅ |
 | Poland Central​​ <sup>1</sup> |  |  | ✅ |  | ✅ |  |
 | Spain Central <sup>2</sup> |  | ✅ |  | ✅ | ✅ | ✅ |
 | Sweden Central​​ <sup>1</sup> | ✅ | ✅ | ✅ |  | ✅ | ✅ |
